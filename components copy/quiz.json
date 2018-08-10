@@ -1,0 +1,42 @@
+
+[
+    {
+        "Qn": " How would describe your lifestyle?",
+ 
+        "options":{
+       "op1": "Sedentary",
+       "op2": " Active",
+        "op3": " Mix of both"
+        }
+},
+{
+    "Qn": " How would you describe your flow?",
+    "options":{
+    "op1": " Light",
+     "op2": "Medium",
+     "op3": " Heavy"
+    }
+},
+{
+    "Qn": " How busy are you on an average day of your period?",
+ 
+    "options":{
+    "op1": "Not very",
+     "op2": "Somewhat busy",
+     "op3": "Extremely busy"
+    }
+},
+
+{
+    "Qn": " What is your budget for a reusable product?",
+ 
+    "options":{
+        "op1": " $30-$50",
+        "op2": "$5-$30",
+        "op3": " $50-$100"    
+    }
+     
+}
+]
+
+
